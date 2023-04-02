@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125efd1be7a00ff4c98cc68a6f89802e, type: 3}
+  m_Name: SOPlayerModel
+  m_EditorClassIdentifier: 
+  MaxSpeed: 3
+  Acceleration: 0.1
+  SpeedRotation: 1.5
+  HP: 1
+  LaserEnergy: 1.0033325
+  LaserPause: 10
+  MaxLaserScele: 3
+  ShootPause: 0.9
+  Livs: -1
+  Score: 54
+  MaxPos: {x: 8, y: 4}
+  MinPos: {x: -8, y: -4}

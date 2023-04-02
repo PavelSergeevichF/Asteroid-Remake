@@ -1,0 +1,5100 @@
+fileFormatVersion: 2
+guid: e7dae4a2c31e5cb488215fa4bf6b323b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1281261886612222474
+    second: Asteriods_0
+  - first:
+      213: -9094436406362286804
+    second: Asteriods_1
+  - first:
+      213: 3323956397812412521
+    second: Asteriods_2
+  - first:
+      213: -3085047308261605628
+    second: Asteriods_3
+  - first:
+      213: -9076358222728332759
+    second: Asteriods_4
+  - first:
+      213: 6489693880483399984
+    second: Asteriods_5
+  - first:
+      213: -2387312369866629923
+    second: Asteriods_6
+  - first:
+      213: 2342948321383076489
+    second: Asteriods_7
+  - first:
+      213: -3741883750287992213
+    second: Asteriods_8
+  - first:
+      213: 465103308513592958
+    second: Asteriods_9
+  - first:
+      213: -3413304468185317580
+    second: Asteriods_10
+  - first:
+      213: 8691508006587718338
+    second: Asteriods_11
+  - first:
+      213: 4253030113776670572
+    second: Asteriods_12
+  - first:
+      213: -2819381933078745729
+    second: Asteriods_13
+  - first:
+      213: -3719802172440606695
+    second: Asteriods_14
+  - first:
+      213: 3935927160390279437
+    second: Asteriods_15
+  - first:
+      213: -788188197945755077
+    second: Asteriods_16
+  - first:
+      213: -4044202469058489744
+    second: Asteriods_17
+  - first:
+      213: -233741013456076396
+    second: Asteriods_18
+  - first:
+      213: 4396829185980655944
+    second: Asteriods_19
+  - first:
+      213: -778596150300499715
+    second: Asteriods_20
+  - first:
+      213: -7797612158854895186
+    second: Asteriods_21
+  - first:
+      213: -574438256339734793
+    second: Asteriods_22
+  - first:
+      213: 7434920657919811690
+    second: Asteriods_23
+  - first:
+      213: 7371342871704361834
+    second: Asteriods_24
+  - first:
+      213: -1341038697589098022
+    second: Asteriods_25
+  - first:
+      213: -6720783714771665332
+    second: Asteriods_26
+  - first:
+      213: -5066765732102702850
+    second: Asteriods_27
+  - first:
+      213: -4528956822462045820
+    second: Asteriods_28
+  - first:
+      213: -461463682356654445
+    second: Asteriods_29
+  - first:
+      213: -2251341406170157930
+    second: Asteriods_30
+  - first:
+      213: -3182890528594994861
+    second: Asteriods_31
+  - first:
+      213: -1673827273594267158
+    second: Asteriods_32
+  - first:
+      213: 8431779118261187489
+    second: Asteriods_33
+  - first:
+      213: 4386062824598535477
+    second: Asteriods_34
+  - first:
+      213: -5355732145534829313
+    second: Asteriods_35
+  - first:
+      213: 1611879338700171456
+    second: Asteriods_36
+  - first:
+      213: 4201056679812687981
+    second: Asteriods_37
+  - first:
+      213: -2821305794297069512
+    second: Asteriods_38
+  - first:
+      213: -2705739691285565148
+    second: Asteriods_39
+  - first:
+      213: 5828865766540082855
+    second: Asteriods_40
+  - first:
+      213: 2459149966032181539
+    second: Asteriods_41
+  - first:
+      213: 4927696373554000228
+    second: Asteriods_42
+  - first:
+      213: 8506424091190722005
+    second: Asteriods_43
+  - first:
+      213: -1117246224625425402
+    second: Asteriods_44
+  - first:
+      213: -2410918502133373930
+    second: Asteriods_45
+  - first:
+      213: 2599273631984225163
+    second: Asteriods_46
+  - first:
+      213: 320989484708027171
+    second: Asteriods_47
+  - first:
+      213: 5496200559017175282
+    second: Asteriods_48
+  - first:
+      213: -6027457459070732456
+    second: Asteriods_49
+  - first:
+      213: 4982705277481331346
+    second: Asteriods_50
+  - first:
+      213: 2531103547185491679
+    second: Asteriods_51
+  - first:
+      213: 2209932209931156726
+    second: Asteriods_52
+  - first:
+      213: 6450190975802573242
+    second: Asteriods_53
+  - first:
+      213: -2682522808411649536
+    second: Asteriods_54
+  - first:
+      213: 1253938306632111914
+    second: Asteriods_55
+  - first:
+      213: -651398719995063411
+    second: Asteriods_56
+  - first:
+      213: -2478867011237612253
+    second: Asteriods_57
+  - first:
+      213: 6236801595352168713
+    second: Asteriods_58
+  - first:
+      213: 7741120596251449206
+    second: Asteriods_59
+  - first:
+      213: 8542224521826264711
+    second: Asteriods_60
+  - first:
+      213: 2352753809095183288
+    second: Asteriods_61
+  - first:
+      213: 3246044945785264602
+    second: Asteriods_62
+  - first:
+      213: -6494884690425656411
+    second: Asteriods_63
+  - first:
+      213: 147305219006982090
+    second: Asteriods_64
+  - first:
+      213: 1859944476263221837
+    second: Asteriods_65
+  - first:
+      213: 7123847182653962314
+    second: Asteriods_66
+  - first:
+      213: 6036181097472064573
+    second: Asteriods_67
+  - first:
+      213: 746977353891786635
+    second: Asteriods_68
+  - first:
+      213: 5416347159348693412
+    second: Asteriods_69
+  - first:
+      213: 7083297301037850286
+    second: Asteriods_70
+  - first:
+      213: 5215769687432950599
+    second: Asteriods_71
+  - first:
+      213: -5792708165943818491
+    second: Asteriods_72
+  - first:
+      213: 1936982369656863161
+    second: Asteriods_73
+  - first:
+      213: 3494032491754145520
+    second: Asteriods_74
+  - first:
+      213: -672049282641298336
+    second: Asteriods_75
+  - first:
+      213: 8818638782461109761
+    second: Asteriods_76
+  - first:
+      213: 1408510278019072264
+    second: Asteriods_77
+  - first:
+      213: 2813273140765244724
+    second: Asteriods_78
+  - first:
+      213: -7279928476693533285
+    second: Asteriods_79
+  - first:
+      213: 4560715290199208434
+    second: Asteriods_80
+  - first:
+      213: -1651882807895900599
+    second: Asteriods_81
+  - first:
+      213: 2848654167037811970
+    second: Asteriods_82
+  - first:
+      213: 8104547323010633897
+    second: Asteriods_83
+  - first:
+      213: 6055488748927485647
+    second: Asteriods_84
+  - first:
+      213: 957052947591489372
+    second: Asteriods_85
+  - first:
+      213: 6149909465903876951
+    second: Asteriods_86
+  - first:
+      213: -6710432038081284186
+    second: Asteriods_87
+  - first:
+      213: -8975643101057228710
+    second: Asteriods_88
+  - first:
+      213: -1231463380732453705
+    second: Asteriods_89
+  - first:
+      213: 6607768361988395855
+    second: Asteriods_90
+  - first:
+      213: 7916189940548294027
+    second: Asteriods_91
+  - first:
+      213: -5243943093337123668
+    second: Asteriods_92
+  - first:
+      213: -2134269687492929082
+    second: Asteriods_93
+  - first:
+      213: 520127405935120308
+    second: Asteriods_94
+  - first:
+      213: 5370735658966509025
+    second: Asteriods_95
+  - first:
+      213: -4598902189208913401
+    second: Asteriods_96
+  - first:
+      213: -3361318646271664106
+    second: Asteriods_97
+  - first:
+      213: 8952761681810717766
+    second: Asteriods_98
+  - first:
+      213: -6347350317446611979
+    second: Asteriods_99
+  - first:
+      213: 7956494283644225673
+    second: Asteriods_100
+  - first:
+      213: -3742009785114455482
+    second: Asteriods_101
+  - first:
+      213: -7956355940633740094
+    second: Asteriods_102
+  - first:
+      213: -5492751564696701245
+    second: Asteriods_103
+  - first:
+      213: 8680463532015269674
+    second: Asteriods_104
+  - first:
+      213: 6335248645563045601
+    second: Asteriods_105
+  - first:
+      213: -3967813879047220162
+    second: Asteriods_106
+  - first:
+      213: 4683406078835205774
+    second: Asteriods_107
+  - first:
+      213: 724701382641964756
+    second: Asteriods_108
+  - first:
+      213: 5959552246877568010
+    second: Asteriods_109
+  - first:
+      213: -8380699094632749052
+    second: Asteriods_110
+  - first:
+      213: 8303339151542419401
+    second: Asteriods_111
+  - first:
+      213: -6616616501951230958
+    second: Asteriods_112
+  - first:
+      213: -5411918963513923494
+    second: Asteriods_113
+  - first:
+      213: -2049419413841902656
+    second: Asteriods_114
+  - first:
+      213: 3773297722412769437
+    second: Asteriods_115
+  - first:
+      213: 7023578875213311647
+    second: Asteriods_116
+  - first:
+      213: 8181537456764949491
+    second: Asteriods_117
+  - first:
+      213: 3891036764168671560
+    second: Asteriods_118
+  - first:
+      213: 5090577901349018604
+    second: Asteriods_119
+  - first:
+      213: -928247918735993052
+    second: Asteriods_120
+  - first:
+      213: 6531041753326517716
+    second: Asteriods_121
+  - first:
+      213: 7340035674785523018
+    second: Asteriods_122
+  - first:
+      213: 772895785702548410
+    second: Asteriods_123
+  - first:
+      213: 5287793727223752343
+    second: Asteriods_124
+  - first:
+      213: -1783623245571867925
+    second: Asteriods_125
+  - first:
+      213: 7666730529840455967
+    second: Asteriods_126
+  - first:
+      213: -5035932244303942666
+    second: Asteriods_127
+  - first:
+      213: 2110101128051139174
+    second: Asteriods_128
+  - first:
+      213: -2379896776687989254
+    second: Asteriods_129
+  - first:
+      213: 2297777861588652338
+    second: Asteriods_130
+  - first:
+      213: 7480713666616704668
+    second: Asteriods_131
+  - first:
+      213: -1508497043744948491
+    second: Asteriods_132
+  - first:
+      213: -2154510708791513623
+    second: Asteriods_133
+  - first:
+      213: -3709832119997625099
+    second: Asteriods_134
+  - first:
+      213: 410815128994200658
+    second: Asteriods_135
+  - first:
+      213: 6017226327711421286
+    second: Asteriods_136
+  - first:
+      213: -7664941531038521999
+    second: Asteriods_137
+  - first:
+      213: -1830872142737338888
+    second: Asteriods_138
+  - first:
+      213: -7293185090457380497
+    second: Asteriods_139
+  - first:
+      213: 3581127697988445411
+    second: Asteriods_140
+  - first:
+      213: 4058730500787523811
+    second: Asteriods_141
+  - first:
+      213: -8037140426935067382
+    second: Asteriods_142
+  - first:
+      213: 6206116508045011773
+    second: Asteriods_143
+  - first:
+      213: -7375200537589350072
+    second: Asteriods_144
+  - first:
+      213: -4875201995055434343
+    second: Asteriods_145
+  - first:
+      213: -1644631920579234249
+    second: Asteriods_146
+  - first:
+      213: 2177224206615326951
+    second: Asteriods_147
+  - first:
+      213: -7313651373831226723
+    second: Asteriods_148
+  - first:
+      213: 8914546623460931308
+    second: Asteriods_149
+  - first:
+      213: 1934384239967027294
+    second: Asteriods_150
+  - first:
+      213: -255519694425954232
+    second: Asteriods_151
+  - first:
+      213: 8789542134994082160
+    second: Asteriods_152
+  - first:
+      213: 5052354713507505932
+    second: Asteriods_153
+  - first:
+      213: 8932040952594991279
+    second: Asteriods_154
+  - first:
+      213: -6313051678999612980
+    second: Asteriods_155
+  - first:
+      213: -3283144152431068353
+    second: Asteriods_156
+  - first:
+      213: 327894161985805113
+    second: Asteriods_157
+  - first:
+      213: 2499821425569171849
+    second: Asteriods_158
+  - first:
+      213: -9136795879724391435
+    second: Asteriods_159
+  - first:
+      213: -8129837345676325800
+    second: Asteriods_160
+  - first:
+      213: 6610385193199762375
+    second: Asteriods_161
+  - first:
+      213: -2004487768831828702
+    second: Asteriods_162
+  - first:
+      213: -5597554326408047663
+    second: Asteriods_163
+  - first:
+      213: 2256387827541794221
+    second: Asteriods_164
+  - first:
+      213: 7834017732929485650
+    second: Asteriods_165
+  - first:
+      213: 8167285603877055657
+    second: Asteriods_166
+  - first:
+      213: 2591790870777471681
+    second: Asteriods_167
+  - first:
+      213: -217661471513855438
+    second: Asteriods_168
+  - first:
+      213: -6357365686144853624
+    second: Asteriods_169
+  - first:
+      213: -1950582514409274188
+    second: Asteriods_170
+  - first:
+      213: 6957095400983905970
+    second: Asteriods_171
+  - first:
+      213: 3777745928805304601
+    second: Asteriods_172
+  - first:
+      213: 542536453133401551
+    second: Asteriods_173
+  - first:
+      213: -8411075210430086471
+    second: Asteriods_174
+  - first:
+      213: 8531752193704753199
+    second: Asteriods_175
+  - first:
+      213: 2034693507607042594
+    second: Asteriods_176
+  - first:
+      213: 3792157210557480615
+    second: Asteriods_177
+  - first:
+      213: -6436010203000312928
+    second: Asteriods_178
+  - first:
+      213: -7609539766348295533
+    second: Asteriods_179
+  - first:
+      213: 6857940013950960124
+    second: Asteriods_180
+  - first:
+      213: 5784337714339383784
+    second: Asteriods_181
+  - first:
+      213: -1292653474164978827
+    second: Asteriods_182
+  - first:
+      213: 2859351127559503072
+    second: Asteriods_183
+  - first:
+      213: -112285834152079049
+    second: Asteriods_184
+  - first:
+      213: 5180683147723552908
+    second: Asteriods_185
+  - first:
+      213: -7885798761932752222
+    second: Asteriods_186
+  - first:
+      213: 9023548999911484375
+    second: Asteriods_187
+  - first:
+      213: -7340842410578742741
+    second: Asteriods_188
+  - first:
+      213: 7203275169605371927
+    second: Asteriods_189
+  - first:
+      213: 7294219725292453708
+    second: Asteriods_190
+  - first:
+      213: 6237216249702871221
+    second: Asteriods_191
+  - first:
+      213: -7756324498567062817
+    second: Asteriods_192
+  - first:
+      213: 7395413867776842534
+    second: Asteriods_193
+  - first:
+      213: 6516685645582806233
+    second: Asteriods_194
+  - first:
+      213: -763078931727794832
+    second: Asteriods_195
+  - first:
+      213: -4520268091774401854
+    second: Asteriods_196
+  - first:
+      213: -3392062861737650
+    second: Asteriods_197
+  - first:
+      213: -8484753333222640737
+    second: Asteriods_198
+  - first:
+      213: 7199861274535863463
+    second: Asteriods_199
+  - first:
+      213: 5316371916631411730
+    second: Asteriods_200
+  - first:
+      213: -1755047085462171211
+    second: Asteriods_201
+  - first:
+      213: 9094437113529416373
+    second: Asteriods_202
+  - first:
+      213: 6543507113727624815
+    second: Asteriods_203
+  - first:
+      213: -7899991484772349878
+    second: Asteriods_204
+  - first:
+      213: 8621537774242075858
+    second: Asteriods_205
+  - first:
+      213: 3578148496005576290
+    second: Asteriods_206
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asteriods_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 609
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd4b304a1b083ee0800000000000000
+      internalID: -1281261886612222474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 608
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255566d5421ac180800000000000000
+      internalID: -9094436406362286804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 609
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fe749bb0112e20800000000000000
+      internalID: 3323956397812412521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 610
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fbac381d5bf25d0800000000000000
+      internalID: -3085047308261605628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 611
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af418f84c4a0280800000000000000
+      internalID: -9076358222728332759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 612
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394d3f4336001a50800000000000000
+      internalID: 6489693880483399984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 612
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc14325c009eded0800000000000000
+      internalID: -2387312369866629923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 613
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d227b513d38020800000000000000
+      internalID: 2342948321383076489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 615
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1741fd88221cc0800000000000000
+      internalID: -3741883750287992213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 616
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cfcfaef0647600800000000000000
+      internalID: 465103308513592958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 616
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f7f8faba181a0d0800000000000000
+      internalID: -3413304468185317580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 614
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cadf1f7b707e9870800000000000000
+      internalID: 8691508006587718338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 612
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6792beda5cc50b30800000000000000
+      internalID: 4253030113776670572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 611
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7defa0d11b8fd8d0800000000000000
+      internalID: -2819381933078745729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_14
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 611
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91883fce1ab906cc0800000000000000
+      internalID: -3719802172440606695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_15
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 611
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01efd026e83f9630800000000000000
+      internalID: 3935927160390279437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_16
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 612
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab94d820bcf05f0800000000000000
+      internalID: -788188197945755077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 611
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d200184b10e7c0800000000000000
+      internalID: -4044202469058489744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 610
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c28369c591ccf0800000000000000
+      internalID: -233741013456076396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_19
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 610
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849627869dca40d30800000000000000
+      internalID: 4396829185980655944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_20
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 610
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df02add2deed135f0800000000000000
+      internalID: -778596150300499715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_21
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 610
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ef271e0159c390800000000000000
+      internalID: -7797612158854895186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_22
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 609
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea979037f2708f0800000000000000
+      internalID: -574438256339734793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 531
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60268c42f42e2760800000000000000
+      internalID: 7434920657919811690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 532
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdb8969454c4660800000000000000
+      internalID: 7371342871704361834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 534
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93620e86ca36de0800000000000000
+      internalID: -1341038697589098022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 536
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4efdc4d1dafab2a0800000000000000
+      internalID: -6720783714771665332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 539
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef875e9596b3fa9b0800000000000000
+      internalID: -5066765732102702850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 541
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816112f3c9e521c0800000000000000
+      internalID: -4528956822462045820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 539
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4360d93d8899f0800000000000000
+      internalID: -461463682356654445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 537
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c69115be0a1c0e0800000000000000
+      internalID: -2251341406170157930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 534
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d32c8de914d3d0800000000000000
+      internalID: -3182890528594994861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 533
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99d0686fe55c8e0800000000000000
+      internalID: -1673827273594267158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_33
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 530
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b3804f62b30570800000000000000
+      internalID: 8431779118261187489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_34
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 528
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfdbe86ec6edc30800000000000000
+      internalID: 4386062824598535477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_35
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 528
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc71415dfd9ca5b0800000000000000
+      internalID: -5355732145534829313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_36
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 529
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e30ce7bb8e5610800000000000000
+      internalID: 1611879338700171456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_37
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 528
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686489cac62d4a30800000000000000
+      internalID: 4201056679812687981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_38
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 528
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300c28f355b8d8d0800000000000000
+      internalID: -2821305794297069512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_39
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 530
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421bf3e1618437ad0800000000000000
+      internalID: -2705739691285565148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_40
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 531
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7e02388a44e050800000000000000
+      internalID: 5828865766540082855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_41
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 535
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32913ce6dd7a02220800000000000000
+      internalID: 2459149966032181539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_42
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 536
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461baa26eb1b26440800000000000000
+      internalID: 4927696373554000228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_43
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 532
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7f3854a3ec0670800000000000000
+      internalID: 8506424091190722005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_44
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 531
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6042e866a7ebe70f0800000000000000
+      internalID: -1117246224625425402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_45
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 531
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146ce95562ba8ed0800000000000000
+      internalID: -2410918502133373930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 460
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b8574c899721420800000000000000
+      internalID: 2599273631984225163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 457
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b58a45c32647400800000000000000
+      internalID: 320989484708027171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 455
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a58ec94d664c40800000000000000
+      internalID: 5496200559017175282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 453
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577f45306b2a5ca0800000000000000
+      internalID: -6027457459070732456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 452
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a2db4ec00262540800000000000000
+      internalID: 4982705277481331346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 451
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee8bb0449402320800000000000000
+      internalID: 2531103547185491679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 451
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf3aed2a14bae10800000000000000
+      internalID: 2209932209931156726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 451
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18426948ea38950800000000000000
+      internalID: 6450190975802573242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_54
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 454
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8db6e7b3c5cad0800000000000000
+      internalID: -2682522808411649536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_55
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 458
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27df090f32e66110800000000000000
+      internalID: 1253938306632111914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_56
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 459
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83dc8fb054c5f6f0800000000000000
+      internalID: -651398719995063411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_57
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 459
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3257fbd369b499dd0800000000000000
+      internalID: -2478867011237612253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_58
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 461
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093e89c1029d8650800000000000000
+      internalID: 6236801595352168713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_59
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 463
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67717070b2cfd6b60800000000000000
+      internalID: 7741120596251449206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_60
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 464
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e517a1f31c8670800000000000000
+      internalID: 8542224521826264711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_61
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 465
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc01bbf19a6a020800000000000000
+      internalID: 2352753809095183288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_62
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 464
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99b7e0ea44c0d20800000000000000
+      internalID: 3246044945785264602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_63
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 464
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4e0219c88dd5a0800000000000000
+      internalID: -6494884690425656411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_64
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 462
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e874f0555b0200800000000000000
+      internalID: 147305219006982090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_65
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 463
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8e9195a9dfc910800000000000000
+      internalID: 1859944476263221837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 464
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b144d44dfcd260800000000000000
+      internalID: 7123847182653962314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_67
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 463
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cffb22ab2d4c350800000000000000
+      internalID: 6036181097472064573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_68
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 461
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2bf912fbcd5a00800000000000000
+      internalID: 746977353891786635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 390
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9cc2d5b0bba2b40800000000000000
+      internalID: 5416347159348693412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 390
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae18dacd5dec4260800000000000000
+      internalID: 7083297301037850286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_71
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 391
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f0b975e2226840800000000000000
+      internalID: 5215769687432950599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 393
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5070a693d9a2c9fa0800000000000000
+      internalID: -5792708165943818491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_73
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 394
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9779fd33b81ea10800000000000000
+      internalID: 1936982369656863161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 395
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6cda00a0c4d7030800000000000000
+      internalID: 3494032491754145520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 395
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfb94fcb66ca6f0800000000000000
+      internalID: -672049282641298336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 395
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e31fdf39126a70800000000000000
+      internalID: 8818638782461109761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_77
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 395
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80140df92a80c8310800000000000000
+      internalID: 1408510278019072264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_78
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 394
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db5732401ca0720800000000000000
+      internalID: 2813273140765244724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_79
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 393
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6e640f9f78fa90800000000000000
+      internalID: -7279928476693533285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_80
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 392
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1340a846aea4f30800000000000000
+      internalID: 4560715290199208434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_81
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 391
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3ac896555319e0800000000000000
+      internalID: -1651882807895900599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_82
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 391
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d99324fd3788720800000000000000
+      internalID: 2848654167037811970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_83
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 391
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0546db9d2297070800000000000000
+      internalID: 8104547323010633897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_84
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 386
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6823d0fea690450800000000000000
+      internalID: 6055488748927485647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_85
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 384
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576e6cc592284d00800000000000000
+      internalID: 957052947591489372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_86
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 381
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b430c531ed85550800000000000000
+      internalID: 6149909465903876951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_87
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 378
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7b3c06d91cfd2a0800000000000000
+      internalID: -6710432038081284186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_88
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 378
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506cc2972c107380800000000000000
+      internalID: -8975643101057228710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_89
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 379
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5a8d6496f8eee0800000000000000
+      internalID: -1231463380732453705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_90
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 381
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f431266d05283bb50800000000000000
+      internalID: 6607768361988395855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_91
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 386
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d6e42fc4fbdd60800000000000000
+      internalID: 7916189940548294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4174b4a85c937b0800000000000000
+      internalID: -5243943093337123668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 311
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9991ee60d8162e0800000000000000
+      internalID: -2134269687492929082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 312
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf45b4be1dd73700800000000000000
+      internalID: 520127405935120308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_95
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 313
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e83f50afa88a40800000000000000
+      internalID: 5370735658966509025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_96
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 314
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abf6f23da6d20c0800000000000000
+      internalID: -4598902189208913401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 314
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a41010823a51d0800000000000000
+      internalID: -3361318646271664106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_98
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 313
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7e0bd0599e3c70800000000000000
+      internalID: 8952761681810717766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_99
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 312
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbb1a7148ea9e7a0800000000000000
+      internalID: -6347350317446611979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_100
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 310
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9884a0a45652b6e60800000000000000
+      internalID: 7956494283644225673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_101
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 308
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642973c2de5b11cc0800000000000000
+      internalID: -3742009785114455482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_102
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 305
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf4f33d68559190800000000000000
+      internalID: -7956355940633740094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_103
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 303
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c638c2cd83d5c3b0800000000000000
+      internalID: -5492751564696701245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_104
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 303
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b08f5793377870800000000000000
+      internalID: 8680463532015269674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_105
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 301
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65f8ad3135be750800000000000000
+      internalID: 6335248645563045601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_106
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 301
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349684ac4e7fe8c0800000000000000
+      internalID: -3967813879047220162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_107
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 301
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a0e3d30dcef040800000000000000
+      internalID: 4683406078835205774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_108
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 301
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6db906118ae0a00800000000000000
+      internalID: 724701382641964756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_109
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 301
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb487813594b250800000000000000
+      internalID: 5959552246877568010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_110
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 303
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4082af68396c1bb80800000000000000
+      internalID: -8380699094632749052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_111
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 303
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf774127f26b3370800000000000000
+      internalID: 8303339151542419401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_112
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 305
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c853a095e0d24a0800000000000000
+      internalID: -6616616501951230958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_113
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 307
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586d82506005e4b0800000000000000
+      internalID: -5411918963513923494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_114
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 308
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30a22c6effe83e0800000000000000
+      internalID: -2049419413841902656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_115
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90243869427d5430800000000000000
+      internalID: 3773297722412769437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_116
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 230
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee60546c3c87160800000000000000
+      internalID: 7023578875213311647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3170328f8aa8170800000000000000
+      internalID: 8181537456764949491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 232
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415248425dbff530800000000000000
+      internalID: 3891036764168671560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 232
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb9c5751ad55a640800000000000000
+      internalID: 5090577901349018604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_120
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 230
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427de3c9f633e13f0800000000000000
+      internalID: -928247918735993052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_121
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 230
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd75482fdbe2aa50800000000000000
+      internalID: 6531041753326517716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_122
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 231
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45294a9e8b0dd560800000000000000
+      internalID: 7340035674785523018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_123
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 234
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab362334f90e9ba00800000000000000
+      internalID: 772895785702548410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_124
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 235
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796e5b40164026940800000000000000
+      internalID: 5287793727223752343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_125
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 239
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3f82bb1c4f37e0800000000000000
+      internalID: -1783623245571867925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_126
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 238
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1168cbfbc2b56a60800000000000000
+      internalID: 7666730529840455967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_127
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 237
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe3592e46cc1ab0800000000000000
+      internalID: -5035932244303942666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_128
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 237
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a3a1dbc5984d10800000000000000
+      internalID: 2110101128051139174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_129
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 239
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4a67ad78e8fed0800000000000000
+      internalID: -2379896776687989254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_130
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 240
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2319fbc7ac853ef10800000000000000
+      internalID: 2297777861588652338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_131
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 237
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e391df175d0d760800000000000000
+      internalID: 7480713666616704668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_132
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 236
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefada5eedb01be0800000000000000
+      internalID: -1508497043744948491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_133
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 235
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede4b9ece3a912e0800000000000000
+      internalID: -2154510708791513623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_134
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 234
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0537a757048cc0800000000000000
+      internalID: -3709832119997625099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_135
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 233
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3e08ee2283b500800000000000000
+      internalID: 410815128994200658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_136
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 231
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631e54e67b718350800000000000000
+      internalID: 6017226327711421286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_137
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 230
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756f42c948a0a590800000000000000
+      internalID: -7664941531038521999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8bfe8c7f6796e0800000000000000
+      internalID: -1830872142737338888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_139
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69dc1a1dc669ca90800000000000000
+      internalID: -7293185090457380497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e9edeaa8b2b130800000000000000
+      internalID: 3581127697988445411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0db7ae2e1835830800000000000000
+      internalID: 4058730500787523811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_142
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 157
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d9a924d57567090800000000000000
+      internalID: -8037140426935067382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be5b8251e802650800000000000000
+      internalID: 6206116508045011773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_144
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 161
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84187b1cf2606a990800000000000000
+      internalID: -7375200537589350072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_145
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 163
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f17c8d9dc75cb0800000000000000
+      internalID: -4875201995055434343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_146
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 163
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363b9b5bf71d29e0800000000000000
+      internalID: -1644631920579234249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_147
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 163
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e030b761ed073e10800000000000000
+      internalID: 2177224206615326951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_148
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 164
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afdbb23d0b08a90800000000000000
+      internalID: -7313651373831226723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_149
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 165
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6fb093ce4d6bb70800000000000000
+      internalID: 8914546623460931308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_150
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 167
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50495aa73058da10800000000000000
+      internalID: 1934384239967027294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_151
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 163
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ef941136347cf0800000000000000
+      internalID: -255519694425954232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_152
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 159
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07996a6b00abaf970800000000000000
+      internalID: 8789542134994082160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_153
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 155
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a2e9e7d19d1640800000000000000
+      internalID: 5052354713507505932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_154
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 154
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88aa22cebf4fb70800000000000000
+      internalID: 8932040952594991279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_155
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 155
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17b8822f88368a0800000000000000
+      internalID: -6313051678999612980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_156
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 161
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf1f7c9cdef62d0800000000000000
+      internalID: -3283144152431068353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_157
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 165
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9619c00aec8400800000000000000
+      internalID: 327894161985805113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_158
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 169
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98906f8875621b220800000000000000
+      internalID: 2499821425569171849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_159
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 166
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f366c36e84933180800000000000000
+      internalID: -9136795879724391435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_160
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 162
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c024102040d2f80800000000000000
+      internalID: -8129837345676325800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_161
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7c255f4eccbb50800000000000000
+      internalID: 6610385193199762375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_162
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 89
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd9269ef0ae24e0800000000000000
+      internalID: -2004487768831828702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_163
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35f7b4ffd7152b0800000000000000
+      internalID: -5597554326408047663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_164
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 91
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd42836cc405f10800000000000000
+      internalID: 2256387827541794221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_165
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 90
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7f572f9508bc60800000000000000
+      internalID: 7834017732929485650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_166
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 87
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace04e0cf6085170800000000000000
+      internalID: 8167285603877055657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 86
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2aac8a014e7f320800000000000000
+      internalID: 2591790870777471681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_168
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 85
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab02d7b06bafcf0800000000000000
+      internalID: -217661471513855438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_169
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 81
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889141a579916c7a0800000000000000
+      internalID: -6357365686144853624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_170
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 79
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b40c8ba9832ee4e0800000000000000
+      internalID: -1950582514409274188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_171
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 79
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6462c28619c8060800000000000000
+      internalID: 6957095400983905970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_172
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 82
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194e1a28ef3d6430800000000000000
+      internalID: 3777745928805304601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_173
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 84
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd77b6970a778700800000000000000
+      internalID: 542536453133401551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_174
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 88
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2883fe8abd54b80800000000000000
+      internalID: -8411075210430086471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_175
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 91
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287e61ca6fd66670800000000000000
+      internalID: 8531752193704753199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_176
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 89
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a16b307feac3c10800000000000000
+      internalID: 2034693507607042594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_177
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 85
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef6bb24e270a430800000000000000
+      internalID: 3792157210557480615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_178
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 82
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab606fd1d2bea6a0800000000000000
+      internalID: -6436010203000312928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_179
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 77
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d99a46eb756690800000000000000
+      internalID: -7609539766348295533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_180
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 76
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10c769b1c4c2f50800000000000000
+      internalID: 6857940013950960124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_181
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 78
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e908142188164050800000000000000
+      internalID: 5784337714339383784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_182
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 79
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc8b693829f0ee0800000000000000
+      internalID: -1292653474164978827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_183
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 82
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfb4673b47ea720800000000000000
+      internalID: 2859351127559503072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319e06f0a4117ef0800000000000000
+      internalID: -112285834152079049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_185
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883ae9dfdb75e740800000000000000
+      internalID: 5180683147723552908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa78c88ec3009290800000000000000
+      internalID: -7885798761932752222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_187
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2e01b1061a3d70800000000000000
+      internalID: 9023548999911484375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_188
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f45598b6102a90800000000000000
+      internalID: -7340842410578742741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71848b72a9c27f360800000000000000
+      internalID: 7203275169605371927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_190
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f34b791364a3560800000000000000
+      internalID: 7294219725292453708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_191
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 6
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b075d6022b0f8650800000000000000
+      internalID: 6237216249702871221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_192
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 9
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda104c96fffb5490800000000000000
+      internalID: -7756324498567062817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_193
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 9
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b16dbeab9c1a660800000000000000
+      internalID: 7395413867776842534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_194
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 11
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca9d9511bef6a50800000000000000
+      internalID: 6516685645582806233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_195
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 13
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db7ca21cff865f0800000000000000
+      internalID: -763078931727794832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_196
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 13
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20144be18c441c0800000000000000
+      internalID: -4520268091774401854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_197
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 12
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410212dfe2f3fff0800000000000000
+      internalID: -3392062861737650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_198
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f37e2cc9104a80800000000000000
+      internalID: -8484753333222640737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_199
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 14
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a42dc4ceab0be360800000000000000
+      internalID: 7199861274535863463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_200
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 13
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c8da0471c87c940800000000000000
+      internalID: 5316371916631411730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_201
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 11
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b151f279f1d4a7e0800000000000000
+      internalID: -1755047085462171211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_202
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 7
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5babc00de5ee53e70800000000000000
+      internalID: 9094437113529416373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_203
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 5
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660afa0d053fca50800000000000000
+      internalID: 6543507113727624815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_204
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 5
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48888db9979d5290800000000000000
+      internalID: -7899991484772349878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_205
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 7
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d49f434dead5a770800000000000000
+      internalID: 8621537774242075858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteriods_206
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 10
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b20a691328a130800000000000000
+      internalID: 3578148496005576290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
